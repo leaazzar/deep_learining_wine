@@ -1,7 +1,9 @@
 # deep_learning_wine
 
 *Description*
+
 This model aims to predict the quality of red wine as a score. The input is constituted of different features which are explained below: 
+
 Fixed acidity :	most acids involved with wine or fixed or nonvolatile
 Volatile acidity:	the amount of acetic acid in wine
 Citric acid:	the amount of citric acid in wine
