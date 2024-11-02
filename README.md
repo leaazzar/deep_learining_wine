@@ -1,2 +1,2 @@
-# deep_learining_wine
-deep_LEArning
+# deep_learning_wine
+(deep_LEArning)
